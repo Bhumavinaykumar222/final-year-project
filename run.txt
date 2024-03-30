@@ -1,0 +1,19 @@
+backend
+-------------------------------------
+
+open food-delivery-backEnd folder
+
+click on start 
+Copy url
+
+
+
+
+change urls 
+-----------------------------------------
+start C:\Users\saima\OneDrive\Desktop\foodys-dev\module
+start C:\Users\saima\OneDrive\Desktop\foodys-restaurant\module\utils
+
+run frontend
+-----------------------------------------------
+click on start
